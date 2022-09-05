@@ -1,0 +1,6 @@
+print("="*20)
+print("Aluguel de veiculos")
+print("="*20)
+day_a = int(input("Dias alugados: "))
+km_c = float(input("Kms percorridos: "))
+print(f"Foram {day_a} dias alugados e {km_c} km/s percorridos, o total a se pagar é {(day_a*60)+(km_c*0.15)} reais.")
