@@ -1,0 +1,5 @@
+nu_user = int(input("Digite um valor: "))
+print(f"Número digitado foi o {nu_user}")
+print(f"O dobro de {nu_user} é {nu_user*2}.")
+print(f"O triplo de {nu_user} é {nu_user*3}.")
+print(f"A raiz quadrada de {nu_user} é {nu_user**(1/2)}.")
