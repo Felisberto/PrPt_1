@@ -1,0 +1,7 @@
+print("="*30)
+n_user = int(input("Digite um número: "))
+print("="*30)
+print(f"Tabuada do {n_user}")
+print(f"1 x {n_user} = {n_user*1}\n2 x {n_user} = {n_user*2}\n3 x {n_user} = {n_user*3}\n4 x {n_user} = {n_user*4}\n5 x {n_user} = {n_user*5}")
+print(f"6 x {n_user} = {n_user*6}\n7 x {n_user} = {n_user*7}\n8 x {n_user} = {n_user*8}\n9 x {n_user} = {n_user*9}\n10 x {n_user} = {n_user*10}")
+print("="*30)
