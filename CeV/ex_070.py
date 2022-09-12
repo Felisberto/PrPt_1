@@ -19,6 +19,5 @@ while True:
         else:
             print("Não há produtos acima de 1000 reais.")
         break
-        
 print(f"O gasto total na compra foi de {gastot} reais.")
 print(f"O produto mais barato comprado foi {namep} custando {me} reais.")
