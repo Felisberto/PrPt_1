@@ -1,0 +1,5 @@
+n_user = int(input("Digite um valor até [9999]: "))
+print(f"A unidade é {n_user // 1 % 10}")
+print(f"A Dezena é {n_user // 10 % 10}")
+print(f"A centena é {n_user // 100 % 10}")
+print(f"O milhar é {n_user // 1000 % 10}")
