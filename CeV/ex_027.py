@@ -1,0 +1,6 @@
+name_user = str(input("Digite seu nome: "))
+name_user_div = name_user.split()
+print(f"Bem-vindo(a) {name_user_div[0]}")
+print(f"Seu primeiro nome é {name_user_div[0]}")
+print(f"Já seu último nome é {name_user_div[-1]}")
+print("FIM DO PROGRAMA. =D")
